@@ -1,0 +1,52 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://get.wallhere.com/photo/dark-science-nebula-astronomy-807212.jpg");
+  background-color: #f6f6f6;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 15% 0 0 0;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 80%;
+  margin: auto;
+}
+
+.alura-logo {
+  width: 60px;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+}
+
+.rodape {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: white;
+}
